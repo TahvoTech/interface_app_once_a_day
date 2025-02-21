@@ -1,0 +1,17 @@
+name: interface_app_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - flask
+  - flask-cors
+  - notebook
+  - jupyterlab
+  - requests
+  - sqlalchemy
+  - pandas
+  - pip
+  - pip:
+    - cohere
+    - langchain
