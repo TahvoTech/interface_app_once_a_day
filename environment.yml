@@ -11,6 +11,7 @@ dependencies:
   - requests
   - sqlalchemy
   - pandas
+  - python-dotenv
   - pip
   - pip:
     - cohere

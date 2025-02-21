@@ -19,3 +19,14 @@ build/
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
+
+# Python
+venv/
+__pycache__/
+
+# Node
+node_modules/
+build/
+
+# Environment variables
+backend/.env
