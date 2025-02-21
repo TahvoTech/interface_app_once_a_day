@@ -6,13 +6,18 @@ dependencies:
   - python=3.11
   - flask
   - flask-cors
-  - notebook
-  - jupyterlab
-  - requests
-  - sqlalchemy
+  - jupyter
+  - matplotlib
+  - langchain
+  - langchain-community
+  - langchainhub
+  - ipykernel
+  - numpy
   - pandas
   - python-dotenv
   - pip
   - pip:
     - cohere
-    - langchain
+    - langchain-cohere
+    - langchainhub
+

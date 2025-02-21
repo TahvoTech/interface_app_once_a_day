@@ -7,6 +7,8 @@ node_modules/
 # Ignore environment variable files
 .env
 conda/
+backend/.env
+
 
 # Ignore build directories
 dist/
@@ -27,6 +29,3 @@ __pycache__/
 # Node
 node_modules/
 build/
-
-# Environment variables
-backend/.env
