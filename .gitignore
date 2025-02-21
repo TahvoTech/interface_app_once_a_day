@@ -8,6 +8,8 @@ node_modules/
 .env
 conda/
 backend/.env
+notebooks/.env
+
 
 
 # Ignore build directories

@@ -15,9 +15,9 @@ dependencies:
   - numpy
   - pandas
   - python-dotenv
+  - sqlalchemy
   - pip
   - pip:
     - cohere
     - langchain-cohere
     - langchainhub
-
