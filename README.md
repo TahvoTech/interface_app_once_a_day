@@ -113,7 +113,7 @@ To run the LLM suggestions and get the output, follow these steps:
 
 
 ## Folder Structure
-
+```
 interface_app_once_a_day
 ├── backend
 │   ├── app.py
@@ -144,6 +144,7 @@ interface_app_once_a_day
 │   └── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 Explanation of the Folder Structure:
 Backend:
